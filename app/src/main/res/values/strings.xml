@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Day Demo</string>
+    <string name="app_id">58bf7391</string>
+    <string name="example_explain">Preserve your memory</string>
+    <string name="example_explain2">Enjoy your life</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="text_begin">Begin Speaking...</string>
+    <string-array name="emot_entries">
+        <item>正常</item>
+        <item>高兴</item>
+        <item>悲伤</item>
+        <item>生气</item>
+    </string-array>
+    <string-array name="emot_values">
+        <item>neutral</item>
+        <item>happy</item>
+        <item>sad</item>
+        <item>angry</item>
+    </string-array>
+    <string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- languages -->
+    <string-array name="language_entries">
+        <item>mandarin</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>mandarin</item>
+        <item>en_us</item>
+    </string-array>
+    <!-- punctations -->
+    <string-array name="punc_entries">
+        <item>with punctation</item>
+        <item>without punctation</item>
+    </string-array>
+    <string-array name="punc_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+</resources>
